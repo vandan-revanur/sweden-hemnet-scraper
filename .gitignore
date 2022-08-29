@@ -1,0 +1,5 @@
+./pyppeteer/*
+./log/*
+./idea/*
+./hemnet_housing.csv
+./multi_page_extractor.py
