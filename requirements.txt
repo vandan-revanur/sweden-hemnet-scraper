@@ -1,0 +1,6 @@
+bs4
+requests_html
+tqdm
+pandas
+fake_useragent
+pythonjsonlogger
