@@ -3,4 +3,4 @@ requests_html
 tqdm
 pandas
 fake_useragent
-pythonjsonlogger
+python-json-logger
