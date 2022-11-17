@@ -1,5 +1,5 @@
 # sweden-hemnet-scraper
-Web scraping Hemnet - Sweden's most popular housing portal
+Web scraping Hemnet - Sweden's most popular housing portal.
 This code is used only for educational and research purposes and not any commercial purposes.
 
 Instructions to run:
